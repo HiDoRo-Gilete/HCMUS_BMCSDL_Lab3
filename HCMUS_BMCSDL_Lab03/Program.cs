@@ -16,7 +16,12 @@ namespace HCMUS_BMCSDL_Lab03
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            SignIn signin = new SignIn();
+            Application.Run(signin);
+            if (signin.isLogin)
+            {
+                Application.Run(new Home());
+            }
         }
     }
 }

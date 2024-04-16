@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace HCMUS_BMCSDL_Lab03
 {
-    public partial class Form1 : Form
+    public partial class ManageStudent : UserControl
     {
-        public Form1()
+        public ManageStudent()
         {
             InitializeComponent();
         }

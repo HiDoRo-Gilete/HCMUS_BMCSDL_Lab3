@@ -1,0 +1,15 @@
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\HCMUS_BMCSDL_Lab03.exe.config
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\HCMUS_BMCSDL_Lab03.exe
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\HCMUS_BMCSDL_Lab03.pdb
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.AssemblyReference.cache
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.SuggestedBindingRedirects.cache
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.ManageStudent.resources
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.ScoreInput.resources
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.SignIn.resources
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.Home.resources
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.ManageClass.resources
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.Properties.Resources.resources
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.GenerateResource.cache
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.CoreCompileInputs.cache
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.exe
+D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.pdb

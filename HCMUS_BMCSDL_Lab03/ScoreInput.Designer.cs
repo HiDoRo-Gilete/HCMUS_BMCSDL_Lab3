@@ -1,6 +1,6 @@
 ﻿namespace HCMUS_BMCSDL_Lab03
 {
-    partial class Form1
+    partial class ScoreInput
     {
         /// <summary>
         /// Required designer variable.
@@ -28,13 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // ScoreInput
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.ClientSize = new System.Drawing.Size(882, 628);
+            this.Name = "ScoreInput";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
     }
 }
-
