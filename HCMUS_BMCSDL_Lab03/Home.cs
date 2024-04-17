@@ -13,8 +13,8 @@ namespace HCMUS_BMCSDL_Lab03
     public partial class Home : Form
     {
         public static int MANAGE_CLASS_ID = 0;
-        public static int MANAGE_STUDENT_ID = 0;
-        public static int MANAGE_SOCREINPUT_ID = 0;
+        public static int MANAGE_STUDENT_ID = 1;
+        public static int MANAGE_SOCREINPUT_ID = 2;
         private static List<UserControl> userControls;
         public Home()
         {
@@ -36,7 +36,19 @@ namespace HCMUS_BMCSDL_Lab03
             if (id < userControls.Count)
             {
                 userControls[id].BringToFront();
+                if(id == MANAGE_STUDENT_ID)
+                {
+                    ManageStudent ms = userControls[id] as ManageStudent;
+                    ms.refresh();
+                }
+                else if (id == MANAGE_SOCREINPUT_ID)
+                {
+                    ScoreInput si = userControls[id] as ScoreInput;
+                    si.refresh();
+                }
             }
+            
         }
+
     }
 }

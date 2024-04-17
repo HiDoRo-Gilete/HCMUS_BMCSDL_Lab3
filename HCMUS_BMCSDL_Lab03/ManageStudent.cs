@@ -16,5 +16,26 @@ namespace HCMUS_BMCSDL_Lab03
         {
             InitializeComponent();
         }
+
+        // sang man hinh huy
+        private void gotoScorreInput()
+        {
+            Home.DisplayMember(Home.MANAGE_SOCREINPUT_ID);
+        }
+        //sang man hinh phuc
+        private void gotoManageClass()
+        {
+            Home.DisplayMember(Home.MANAGE_CLASS_ID);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            gotoManageClass();
+        }
+        public void refresh()
+        {
+            //xoa du lieu va tao lai 
+            MessageBox.Show("refresh from form Manage Student");
+        }
     }
 }

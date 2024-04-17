@@ -28,20 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
+            // 
+            // label2
+            // 
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.label2.ForeColor = System.Drawing.Color.Aqua;
+            this.label2.Location = new System.Drawing.Point(356, 247);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(108, 39);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "label2";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // ScoreInput
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(882, 628);
+            this.Controls.Add(this.label2);
             this.Name = "ScoreInput";
-            this.Text = "Form1";
+            this.Size = new System.Drawing.Size(882, 628);
             this.ResumeLayout(false);
 
         }
 
         #endregion
+        private System.Windows.Forms.Label label2;
     }
 }

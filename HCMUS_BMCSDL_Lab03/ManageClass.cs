@@ -16,5 +16,14 @@ namespace HCMUS_BMCSDL_Lab03
         {
             InitializeComponent();
         }
+        public void gotoManageStudent()
+        {
+            Home.DisplayMember(Home.MANAGE_STUDENT_ID);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            gotoManageStudent();
+        }
     }
 }
