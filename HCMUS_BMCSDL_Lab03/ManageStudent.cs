@@ -7,14 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.Data.SqlClient;
 
 namespace HCMUS_BMCSDL_Lab03
 {
     public partial class ManageStudent : UserControl
     {
-        public ManageStudent()
+        SqlConnection connection;
+        public ManageStudent(SqlConnection connection)
         {
             InitializeComponent();
+            this.connection = connection;
         }
 
         // sang man hinh huy

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Data.SqlClient;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,9 +14,11 @@ namespace HCMUS_BMCSDL_Lab03
     public partial class SignIn : Form
     {
         public bool isLogin = false;
-        public SignIn()
+        SqlConnection conn;
+        public SignIn(SqlConnection conn)
         {
             InitializeComponent();
+            this.conn = conn;
         }
         private void goToHome()
         {

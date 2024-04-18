@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Data.SqlClient;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,9 +13,12 @@ namespace HCMUS_BMCSDL_Lab03
 {
     public partial class ManageClass : UserControl
     {
-        public ManageClass()
+        public static string malop;
+        SqlConnection connection;
+        public ManageClass(SqlConnection conn)
         {
             InitializeComponent();
+            connection = conn;
         }
         public void gotoManageStudent()
         {

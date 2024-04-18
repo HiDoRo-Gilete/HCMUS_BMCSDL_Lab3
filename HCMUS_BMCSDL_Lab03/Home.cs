@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Data.SqlClient;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,20 +17,22 @@ namespace HCMUS_BMCSDL_Lab03
         public static int MANAGE_STUDENT_ID = 1;
         public static int MANAGE_SOCREINPUT_ID = 2;
         private static List<UserControl> userControls;
-        public Home()
+        SqlConnection conn;
+        public Home(SqlConnection conn)
         {
             InitializeComponent();
+            this.conn = conn;
             InitializeMyComponent();
         }
         private void InitializeMyComponent()
         {
-            userControls = new List<UserControl>() { new ManageClass(),new ManageStudent(),new ScoreInput()};
+            userControls = new List<UserControl>() { new ManageClass(conn),new ManageStudent(conn),new ScoreInput(conn)};
             for(int i = 0; i < userControls.Count; i++)
             {
                 userControls[i].Dock = DockStyle.Fill;
                 container.Controls.Add(userControls[i]);
             }
-            DisplayMember(0); //how to use:  DisplayMember(Home.MANAGE_CLASS_ID)
+            DisplayMember(2); //how to use:  DisplayMember(Home.MANAGE_CLASS_ID)
         }
         public static void DisplayMember(int id)
         {
