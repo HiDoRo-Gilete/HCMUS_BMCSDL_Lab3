@@ -14,17 +14,23 @@ namespace HCMUS_BMCSDL_Lab03
 {
     public partial class ScoreInput : UserControl
     {
+        private string MALOP;
+        private string password;
+        private string username;
+        private string pubkey;
         List<List<string>> allStudents;
         SqlConnection connection;
         public ScoreInput(SqlConnection conn)
         {
             InitializeComponent();
             connection = conn;
+            password = "123456";
+            username = "NV01";
+            pubkey = "NV01";
             InitializeMyComponent();
         }
         private void InitializeMyComponent()
         {
-            allStudents = getAllStudent("LOP01");
             lv_score.Columns.Add("MASV").Width = 90;
             lv_score.Columns.Add("HOTEN").Width = 173;
             lv_score.Columns.Add("TENHP").Width = 173;
@@ -36,11 +42,29 @@ namespace HCMUS_BMCSDL_Lab03
         }
         private List<List<string>> getAllStudent(string malop)
         {
-
             List<List<string>> students = new List<List<string>>();
-            students.Add(new List<string>() { "SV01", "NGUYEN VAN A", "VAT LY LUONG TU", "" });
-            students.Add(new List<string>() { "SV02", "NGUYEN VAN B", "VAT LY LUONG TU", "" });
-            students.Add(new List<string>() { "SV03", "NGUYEN VAN C", "VAT LY LUONG TU", "" });
+            //students.Add(new List<string>() { "SV01", "NGUYEN VAN A", "VAT LY LUONG TU", "" });
+            //students.Add(new List<string>() { "SV02", "NGUYEN VAN B", "VAT LY LUONG TU", "" });
+            //students.Add(new List<string>() { "SV03", "NGUYEN VAN C", "VAT LY LUONG TU", "" });
+            SqlCommand command = new SqlCommand("EXEC SP_UV_BANGDIEM '"+malop+"','"+password+"'", connection);
+            try
+            {
+                connection.Open();
+                SqlDataReader reader = command.ExecuteReader();
+                while (reader.Read())
+                {
+                    students.Add(new List<string>() { reader["MASV"].ToString(), reader["HOTEN"].ToString(),
+                        reader["TENHP"].ToString(),reader["DIEM"].ToString(),reader["MAHP"].ToString() });
+                }
+            }
+            catch(Exception e)
+            {
+                MessageBox.Show(e.Message);
+            }
+            finally
+            {
+                connection.Close();
+            }
             return students;
         }
         private void gotoManageStudent()
@@ -49,6 +73,8 @@ namespace HCMUS_BMCSDL_Lab03
         }
         public void refresh()
         {
+            MALOP = "LOP01";
+            allStudents = getAllStudent(MALOP);
             groupBox1.Visible = false;
             lv_score.Items.Clear();
             foreach (List<string> student in allStudents)
@@ -138,8 +164,35 @@ namespace HCMUS_BMCSDL_Lab03
         }
         private void btn_save_Click(object sender, EventArgs e)
         {
-            
-            MessageBox.Show("Not Implement!");
+            //MessageBox.Show("Not Implement!");
+            if(tb_score.Text.Length > 0)
+            {
+                int index = lv_score.SelectedItems[0].Index;
+                string masv = allStudents[index][0];
+                string mahp = allStudents[index][4];
+
+                SqlCommand command = new SqlCommand("EXEC SP_INS_PUBLIC_BANGDIEM '" + masv + "','" + mahp + 
+                    "',"+tb_score.Text+",'"+pubkey+"'", connection);
+                try
+                {
+                    connection.Open();
+                    command.ExecuteNonQuery();
+                    MessageBox.Show("Đã lưu điểm");
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+                finally
+                {
+                    connection.Close();
+                    refresh();
+                }
+            }
+            else
+            {
+                MessageBox.Show("Điểm không được để trống! Mời thử lại");
+            }
         }
     }
 }
