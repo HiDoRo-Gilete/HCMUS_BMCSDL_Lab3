@@ -15,8 +15,6 @@ namespace HCMUS_BMCSDL_Lab03
 
     public partial class SignIn : Form
     {
-        private const string connectionString = "Data Source=your_server;Initial Catalog=your_database;Integrated Security=True";
-
         public bool isLogin = false;
         SqlConnection conn;
         public SignIn(SqlConnection conn)
@@ -57,7 +55,6 @@ namespace HCMUS_BMCSDL_Lab03
         {
             using (SqlConnection connection = this.conn)
             {
-                // Kiểm tra trong bảng NHANVIEN
                 string queryNV = "SELECT MATKHAU FROM NHANVIEN WHERE MANV = @MANV";
                 using (SqlCommand command = new SqlCommand(queryNV, connection))
                 {
@@ -87,8 +84,6 @@ namespace HCMUS_BMCSDL_Lab03
                     }
                 }
             }
-
-            // Nếu không tìm thấy trong cả hai bảng, hoặc mật khẩu không khớp, trả về false
             return false;
         }
 
