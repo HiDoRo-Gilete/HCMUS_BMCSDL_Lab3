@@ -13,8 +13,14 @@ namespace HCMUS_BMCSDL_Lab03
 {
     public partial class ManageClass : UserControl
     {
+
+        public bool isconnect = false;
         public static string malop;
         SqlConnection connection;
+        SqlCommand cmd;
+        SqlDataAdapter adapter = new SqlDataAdapter();
+        DataTable table = new DataTable();
+
         public ManageClass(SqlConnection conn)
         {
             InitializeComponent();
@@ -25,8 +31,24 @@ namespace HCMUS_BMCSDL_Lab03
             Home.DisplayMember(Home.MANAGE_STUDENT_ID);
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void LoadData()
         {
+            cmd = new SqlCommand("EXEC SP_SEL_PUBLIC_LOP", connection);
+            adapter = new SqlDataAdapter(cmd);
+            adapter.Fill(table);
+            dtg_class.DataSource = table;
+        }
+
+        private void ManageClass_Load(object sender, EventArgs e)
+        {
+            connection.Open();
+            LoadData();
+            connection.Close();
+        }
+
+        private void dtg_class_CellContentDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+            malop = this.dtg_class.CurrentRow.Cells[0].Value.ToString();
             gotoManageStudent();
         }
     }

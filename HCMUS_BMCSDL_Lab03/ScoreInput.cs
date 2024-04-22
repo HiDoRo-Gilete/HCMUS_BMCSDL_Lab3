@@ -16,17 +16,17 @@ namespace HCMUS_BMCSDL_Lab03
     {
         private string MALOP;
         private string password;
-        private string username;
+        //private string username;
         private string pubkey;
         List<List<string>> allStudents;
         SqlConnection connection;
-        public ScoreInput(SqlConnection conn)
+        public ScoreInput(SqlConnection conn,string pass,string pub)
         {
             InitializeComponent();
             connection = conn;
-            password = "123456";
-            username = "NV01";
-            pubkey = "NV01";
+            password = pass;
+            //username = "NV01";
+            pubkey = pub;
             InitializeMyComponent();
         }
         private void InitializeMyComponent()
@@ -73,7 +73,7 @@ namespace HCMUS_BMCSDL_Lab03
         }
         public void refresh()
         {
-            MALOP = "LOP01";
+            MALOP = ManageClass.malop;
             allStudents = getAllStudent(MALOP);
             groupBox1.Visible = false;
             lv_score.Items.Clear();
