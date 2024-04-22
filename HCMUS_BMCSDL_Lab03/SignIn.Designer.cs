@@ -36,7 +36,7 @@
             this.btn_signin.BackColor = System.Drawing.Color.Aqua;
             this.btn_signin.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_signin.ForeColor = System.Drawing.Color.Black;
-            this.btn_signin.Location = new System.Drawing.Point(206, 353);
+            this.btn_signin.Location = new System.Drawing.Point(231, 375);
             this.btn_signin.Name = "btn_signin";
             this.btn_signin.Size = new System.Drawing.Size(112, 47);
             this.btn_signin.TabIndex = 26;
@@ -55,6 +55,7 @@
             this.Controls.Add(this.btn_signin);
             this.Name = "SignIn";
             this.Text = "Sign in";
+            this.Load += new System.EventHandler(this.SignIn_Load);
             this.ResumeLayout(false);
 
         }

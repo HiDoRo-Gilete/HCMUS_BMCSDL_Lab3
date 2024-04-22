@@ -5,6 +5,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -32,7 +33,7 @@ namespace HCMUS_BMCSDL_Lab03
                 userControls[i].Dock = DockStyle.Fill;
                 container.Controls.Add(userControls[i]);
             }
-            DisplayMember(2); //how to use:  DisplayMember(Home.MANAGE_CLASS_ID)
+            DisplayMember(0); //how to use:  DisplayMember(Home.MANAGE_CLASS_ID)
         }
         public static void DisplayMember(int id)
         {
@@ -52,6 +53,5 @@ namespace HCMUS_BMCSDL_Lab03
             }
             
         }
-
     }
 }

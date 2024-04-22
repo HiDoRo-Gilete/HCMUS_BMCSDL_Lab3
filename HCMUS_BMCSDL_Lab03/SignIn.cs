@@ -46,5 +46,10 @@ namespace HCMUS_BMCSDL_Lab03
         {
             btn_signin.BackColor = Color.Yellow;
         }
+
+        private void SignIn_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

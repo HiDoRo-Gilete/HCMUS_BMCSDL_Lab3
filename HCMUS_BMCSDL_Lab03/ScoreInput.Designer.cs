@@ -226,6 +226,7 @@
             this.Controls.Add(this.lv_score);
             this.Name = "ScoreInput";
             this.Size = new System.Drawing.Size(882, 628);
+            this.Load += new System.EventHandler(this.ScoreInput_Load);
             this.panel1.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

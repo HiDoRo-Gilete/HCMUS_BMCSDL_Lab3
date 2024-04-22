@@ -1,57 +1,114 @@
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\HCMUS_BMCSDL_Lab03.exe.config
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\HCMUS_BMCSDL_Lab03.exe
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\HCMUS_BMCSDL_Lab03.pdb
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.AssemblyReference.cache
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.SuggestedBindingRedirects.cache
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.ManageStudent.resources
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.ScoreInput.resources
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.SignIn.resources
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.Home.resources
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.ManageClass.resources
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.Properties.Resources.resources
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.GenerateResource.cache
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.CoreCompileInputs.cache
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.exe
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.pdb
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Azure.Core.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Azure.Identity.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.Data.SqlClient.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.Identity.Client.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Logging.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Protocols.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Tokens.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Buffers.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Configuration.ConfigurationManager.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.IO.FileSystem.AccessControl.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Memory.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Memory.Data.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Numerics.Vectors.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Security.AccessControl.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Security.Cryptography.ProtectedData.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Security.Permissions.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Security.Principal.Windows.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Text.Encodings.Web.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Text.Json.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Threading.Tasks.Extensions.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.ValueTuple.dll
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.exe.config
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.Form1.resources
-D:\sql\sql_security\lab3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.CopyComplete
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\HCMUS_BMCSDL_Lab03.exe.config
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\HCMUS_BMCSDL_Lab03.exe
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\HCMUS_BMCSDL_Lab03.pdb
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\Azure.Core.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\Azure.Identity.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Buffers.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Memory.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Memory.Data.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Security.Permissions.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Text.Json.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\bin\Debug\System.ValueTuple.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.exe.config
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.Form1.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.ManageStudent.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.ScoreInput.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.SignIn.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.Home.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.ManageClass.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.Properties.Resources.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BM.BB7C4346.Up2Date
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.exe
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\Nhom\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.pdb
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\HCMUS_BMCSDL_Lab03.exe.config
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\HCMUS_BMCSDL_Lab03.exe
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\HCMUS_BMCSDL_Lab03.pdb
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Azure.Core.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Azure.Identity.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Buffers.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Memory.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Memory.Data.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Security.Permissions.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Text.Json.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\bin\Debug\System.ValueTuple.dll
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.exe.config
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.Form1.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.ManageStudent.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.ScoreInput.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.SignIn.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.Home.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.ManageClass.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.Properties.Resources.resources
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BM.BB7C4346.Up2Date
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.exe
+C:\Users\MSI\OneDrive\Desktop\Learning\BMCSDL\Lab 3\HCMUS_BMCSDL_Lab3\HCMUS_BMCSDL_Lab03\obj\Debug\HCMUS_BMCSDL_Lab03.pdb

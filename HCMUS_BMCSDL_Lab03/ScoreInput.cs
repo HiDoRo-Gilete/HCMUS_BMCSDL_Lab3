@@ -149,7 +149,7 @@ namespace HCMUS_BMCSDL_Lab03
                         e.Handled = true;
                     }
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     e.Handled = true;
                 }
@@ -193,6 +193,11 @@ namespace HCMUS_BMCSDL_Lab03
             {
                 MessageBox.Show("Điểm không được để trống! Mời thử lại");
             }
+        }
+
+        private void ScoreInput_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -38,7 +38,7 @@
             this.btn_signin.BackColor = System.Drawing.Color.Aqua;
             this.btn_signin.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btn_signin.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.btn_signin.Location = new System.Drawing.Point(320, 288);
+            this.btn_signin.Location = new System.Drawing.Point(338, 291);
             this.btn_signin.Name = "btn_signin";
             this.btn_signin.Size = new System.Drawing.Size(128, 54);
             this.btn_signin.TabIndex = 9;
@@ -51,7 +51,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 17F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label2.ForeColor = System.Drawing.Color.Aqua;
-            this.label2.Location = new System.Drawing.Point(223, 108);
+            this.label2.Location = new System.Drawing.Point(223, 107);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(354, 33);
             this.label2.TabIndex = 8;
@@ -59,10 +59,10 @@
             // 
             // tb_server
             // 
-            this.tb_server.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.tb_server.BackColor = System.Drawing.Color.White;
             this.tb_server.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.tb_server.ForeColor = System.Drawing.Color.Aqua;
-            this.tb_server.Location = new System.Drawing.Point(229, 187);
+            this.tb_server.Location = new System.Drawing.Point(229, 209);
             this.tb_server.Name = "tb_server";
             this.tb_server.Size = new System.Drawing.Size(348, 30);
             this.tb_server.TabIndex = 7;
