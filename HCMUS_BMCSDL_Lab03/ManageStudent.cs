@@ -95,6 +95,7 @@ namespace HCMUS_BMCSDL_Lab03
             //xoa du lieu va tao lai 
             gb_edit.Visible = false;
             MALOP = ManageClass.malop;
+            lb_name.Text = "LỚP: " + ManageClass.tenlop;
             getAllStudent();
             if(students.Count > 0 && students[0][4].Equals(username))
             {

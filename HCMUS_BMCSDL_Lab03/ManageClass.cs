@@ -16,6 +16,7 @@ namespace HCMUS_BMCSDL_Lab03
 
         public bool isconnect = false;
         public static string malop;
+        public static string tenlop;
         SqlConnection connection;
         SqlCommand cmd;
         SqlDataAdapter adapter = new SqlDataAdapter();
@@ -51,6 +52,7 @@ namespace HCMUS_BMCSDL_Lab03
             if( Home.typeUser == Home.Nhanvien)
             {
                 malop = this.dtg_class.CurrentRow.Cells[0].Value.ToString();
+                tenlop = this.dtg_class.CurrentRow.Cells[1].Value.ToString();
                 gotoManageStudent();
             }
             
