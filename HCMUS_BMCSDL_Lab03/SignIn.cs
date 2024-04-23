@@ -17,7 +17,7 @@ namespace HCMUS_BMCSDL_Lab03
     {
         public bool isLogin = false;
         SqlConnection conn;
-        private string pubkey;
+        private string pubkey ="";
         public SignIn(SqlConnection conn)
         {
             InitializeComponent();
@@ -78,8 +78,8 @@ namespace HCMUS_BMCSDL_Lab03
                             pubkey = reader["PUBKEY"].ToString();
                         }
                     }
-                    reader.Close();
                 }
+                reader.Close();
             }
             if (!check)
             {
@@ -99,7 +99,6 @@ namespace HCMUS_BMCSDL_Lab03
                             {
                                 check = true;
                                 Home.typeUser = Home.Sinhvien;
-                                pubkey = reader["PUBKEY"].ToString();
                             }
                         }
                         reader.Close();

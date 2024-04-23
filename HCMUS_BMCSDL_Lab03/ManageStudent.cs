@@ -100,6 +100,10 @@ namespace HCMUS_BMCSDL_Lab03
             {
                 button1.Visible = true;
             }
+            else
+            {
+                button1.Visible = false;
+            }
             getViewForStudent();
             //MessageBox.Show("refresh from form Manage Student");
         }

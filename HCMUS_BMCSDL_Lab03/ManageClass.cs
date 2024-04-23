@@ -48,8 +48,12 @@ namespace HCMUS_BMCSDL_Lab03
 
         private void dtg_class_CellContentDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            malop = this.dtg_class.CurrentRow.Cells[0].Value.ToString();
-            gotoManageStudent();
+            if( Home.typeUser == Home.Nhanvien)
+            {
+                malop = this.dtg_class.CurrentRow.Cells[0].Value.ToString();
+                gotoManageStudent();
+            }
+            
         }
     }
 }
